@@ -3,6 +3,6 @@
 
 ## Contents
 >
-> [Assignment](https://github.com/kjptts2241/practice-code/tree/main/Assignment
+> [Assignment](https://github.com/kjptts2241/practice-code/tree/main/Assignment)
 
 > [BaekJoon](https://github.com/kjptts2241/practice-code/tree/main/BaekJoon)
