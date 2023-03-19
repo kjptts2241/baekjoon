@@ -1,6 +1,8 @@
 import java.io.*;
 import java.util.*;
 
+/* Sort student information */
+
 public class test {
 
     public static void main(String[] args) throws IOException {
