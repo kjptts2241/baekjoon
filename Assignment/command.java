@@ -17,7 +17,7 @@ public class command {
 
             List<String> commands = new ArrayList<String>();
 
-            File inpFile = new File("src/1.inp");
+            File inpFile = new File("command.inp");
             FileReader fr = new FileReader(inpFile);
             BufferedReader br = new BufferedReader(fr);
 
